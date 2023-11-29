@@ -1,4 +1,5 @@
-
+"""nullatol a lista hosszaig
+mindig az iedik elemet kell kiirni es kapjon parametert"""
 penz = 0
 
 def rendelesMain():
